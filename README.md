@@ -1,1 +1,1 @@
-This is a ready to use production grade template for Deep Learning Project.
+This is a Deep Learning Based Classifier Model
