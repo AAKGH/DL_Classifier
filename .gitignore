@@ -130,3 +130,9 @@ dmypy.json
 
 # Ignore for VScode
 .vscode
+
+# Ignoring jpeg
+*.jpg
+
+# Ignore zip
+*.zip
