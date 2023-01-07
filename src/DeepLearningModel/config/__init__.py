@@ -1,0 +1,1 @@
+from DeepLearningModel.config.configuration import ConfigurationManager

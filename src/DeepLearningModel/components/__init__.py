@@ -1,0 +1,1 @@
+from DeepLearningModel.components.Data_Ingestion import DataIngestion 

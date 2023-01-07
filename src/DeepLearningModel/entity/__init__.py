@@ -1,0 +1,1 @@
+from DeepLearningModel.entity.config_entity import DataIngestionConfig
